@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PratibhaDash
-- i'm Python (django) developer
+- 🦾i'm Python (django) developer
 - 👀 I’m interested in django, python, html, css, javascript, sql
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
